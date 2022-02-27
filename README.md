@@ -1,4 +1,4 @@
-# Kaggle_competitions
+# Kaggle_competitions (work in progress)
 
 Repository containing portfolio of DS projects, created by me during my learning process. 
 Code mainly written in Python.
