@@ -14,4 +14,8 @@ Created model: XGBoost<br></p>
 Done: extended feature engineering, cleaning data, logarithm, validation(GroupKFold)<br>
 Created model: Catboost<br></p>
 <p></p>
+<p>2. <a href="https://github.com/malowana/Kaggle_competitions/blob/main/Energydemand%20forecast.ipynb">Energy demand forecast</a> - Model for predicting energy usage.Solution for Kaggle Competition:  <a href="https://www.kaggle.com/competitions/energy-demand-forecast/overview">LINK</a> <br>
+Done: extended feature engineering, cleaning data, time series related analysis, validation(GroupKFold), hyperopt<br>
+Created model: XGBoost<br></p>
+<p></p>
 <p></p>
