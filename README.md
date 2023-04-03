@@ -17,5 +17,9 @@ Created model: Catboost<br></p>
 <p>4. <a href="https://github.com/malowana/Kaggle_competitions/blob/main/Energydemand%20forecast.ipynb">Energy demand forecast</a> - Model for predicting energy usage.Solution for Kaggle Competition:  <a href="https://www.kaggle.com/competitions/energy-demand-forecast/overview">LINK</a> <br>
 Done: extended feature engineering, cleaning data, time series related analysis, validation(GroupKFold), hyperopt<br>
 Created model: XGBoost<br></p>
+
+<p>5. <a href="https://github.com/malowana/Kaggle_competitions/blob/main/diabets%20predict.ipynb">Diabetes Predict</a> - Model for prediction patient readmission to the hospital within next 30 days. Solution for Kaggle Competition within DW Club:  <a href="https://www.kaggle.com/competitions/diabetespredict/overview">LINK</a> <br>
+Done: extended feature engineering, cleaning data,  validation(StratifiedKFold)<br>
+Created model: Catboost<br></p>
 <p></p>
 <p></p>
